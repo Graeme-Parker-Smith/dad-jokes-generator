@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dad-jokes-generator/static/css/main.ee3cca6e.chunk.css",
+    "main.js": "/dad-jokes-generator/static/js/main.57f560b8.chunk.js",
+    "main.js.map": "/dad-jokes-generator/static/js/main.57f560b8.chunk.js.map",
+    "runtime~main.js": "/dad-jokes-generator/static/js/runtime~main.9f83b11b.js",
+    "runtime~main.js.map": "/dad-jokes-generator/static/js/runtime~main.9f83b11b.js.map",
+    "static/js/2.9b720001.chunk.js": "/dad-jokes-generator/static/js/2.9b720001.chunk.js",
+    "static/js/2.9b720001.chunk.js.map": "/dad-jokes-generator/static/js/2.9b720001.chunk.js.map",
+    "index.html": "/dad-jokes-generator/index.html",
+    "precache-manifest.f1a7dcec6a9c343ef44b5989e3a7766b.js": "/dad-jokes-generator/precache-manifest.f1a7dcec6a9c343ef44b5989e3a7766b.js",
+    "service-worker.js": "/dad-jokes-generator/service-worker.js",
+    "static/css/main.ee3cca6e.chunk.css.map": "/dad-jokes-generator/static/css/main.ee3cca6e.chunk.css.map"
+  }
+}
